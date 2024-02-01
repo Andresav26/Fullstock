@@ -17,7 +17,9 @@ Piloto de Avión Comercial y Administrador de Empresas Marítimas en proceso, in
 Estudiante de Criminalistica y Ciencias Forenses, interesado por el area de las ciencias politicas y la programacion para en un futuro poder lograr una fusion entre ambas carreras. Amante de la ropa deportiva.
 
 **Yair Sanchez**
+
  Soy estudiante ingienería industrial especializado en optimizar procesos y sistemas, aplicando principios de eficiencia y gestión para mejorar la producción y reducir costos en diversos sectores industriales.
  
 **Anthony Lam**
+
 Soy un hombre de negocios lidero estratégicamente para alcanzar metas financieras y comerciales. Mi enfoque incluye la gestión eficiente, la identificación de oportunidades y la adaptación ágil para garantizar el éxito y la rentabilidad a largo plazo de la empresa.
