@@ -22,4 +22,5 @@ Estudiante de Criminalistica y Ciencias Forenses, interesado por el area de las 
  
 **Anthony Lan**
 
-Soy un hombre de negocios lidero estratégicamente para alcanzar metas financieras y comerciales. Mi enfoque incluye la gestión eficiente, la identificación de oportunidades y la adaptación ágil para garantizar el éxito y la rentabilidad a largo plazo de la empresa.
+Soy estudiante de Derecho y marino ordinario, considero que poseo una combinación de habilidades y experiencias que pueden ser valiosas para trabajar en equipo, como estudiante de derecho y marino  tengo capacidad para adaptarte a entornos diversos y aprender rápidamente sobre diferentes temas y situaciones.
+
