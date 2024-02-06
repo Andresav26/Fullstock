@@ -24,3 +24,15 @@ Estudiante de Criminalistica y Ciencias Forenses, interesado por el area de las 
 
 Soy estudiante de Derecho y marino ordinario, considero que poseo una combinación de habilidades y experiencias que pueden ser valiosas para trabajar en equipo, como estudiante de derecho y marino  tengo capacidad para adaptarte a entornos diversos y aprender rápidamente sobre diferentes temas y situaciones.
 
+
+# _Link de Wireframes_
+https://wireframe.cc/VrRrNu (Home)
+https://wireframe.cc/TthF9u (Carrito)
+https://wireframe.cc/tkdmni (Inicio de sesión)
+https://wireframe.cc/uT8XB2 (Crear una cuenta)
+
+
+# _Referencias_
+https://www.stadiumgoods.com/en-pa/
+https://www.nike.com/us/es/
+https://www.footlocker.com/
