@@ -25,23 +25,25 @@
     
     <main class="fondo-cuerpo">
         <div class="formulario">
-            <form action="formulario" method="post">
+            <form action="formulario" method="post" id="form">
                 <h2>Registrate</h2>
                 <div class="input">
-                <input type="Correo" name="Correo" id="Correo" placeholder="Nombre">
+                <input type="text" name="name" id="nombre" placeholder="Nombre">
                 </div>
                 <div class="input">
-                    <input type="Contraseña" name="Contraseña" id="Contraseña" placeholder="Apellido">
+                    <input type="text" name="apellido" id="apellido" placeholder="Apellido">
                     </div>
                     <div class="input">
-                        <input type="Correo" name="Correo" id="Correo" placeholder="Correo">
+                        <input type="email" name="email" id="email" placeholder="Correo">
                         </div>
                         <div class="input">
-                            <input type="Correo" name="Correo" id="Correo" placeholder="Contraseña">
+                            <input type="password" name="password" id="password" placeholder="Contraseña">
+                            <span id="nivelContra"></span>
                             </div>
-                    <br><button class="button">Registrate</button></br>
+                    <br><button class="button" id="registro">Registrate</button></br>
             </form>
         </div>
     </main>
+    <script src="./js/form.js"></script>
 </body>
 </html>
